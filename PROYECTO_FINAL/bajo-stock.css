@@ -1,0 +1,5 @@
+/* Éste es el estilo para resaltar productos con bajo stock */
+.bajo-stock {
+    color: red; /* Texto en rojo para indicar bajo stock */
+    font-weight: bold; /* Texto en negrita para resaltar */
+}
